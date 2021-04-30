@@ -22,15 +22,15 @@ I am Sultana Tasnim Jahan. A professional Web Developer, try to develop the fron
 
 <br />
 
-## TECHNICAL SKILLS
+# TECHNICAL SKILLS
 
-# Front End (Expert): 
+### Front End (Expert): 
 Html, CSS, Bootstrap, Material UI,  JavaScript, TypeScript, ES6, React JS, React Router
-# Back End: 
+### Back End: 
 Node JS, Express JS, MongoDB, Postman
-# Deploy tools: 
+### Deploy tools: 
 Firebase, Heroku, GitHub,  Netlify, 
-# Others: 
+### Others: 
 VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
 
 
