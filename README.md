@@ -1,10 +1,12 @@
 
 ### Hi there, I'm a Sultana Tasnim Jahan, a Full Stack Web Developer!! 👋 
+## ABOUT ME
+I am Sultana Tasnim Jahan. A professional Web Developer, try to develop the front end of a web application using React.js and the backend using node.js. I love to take a challenge and to be successful at any cost by working hard and love to learn and gain new experiences. Honesty, hard work, and passion support me to grow myself.
 
 ## I'm a 😍😍 React Lover 😍😍!!!
 
 - 🔭 I’m currently working with MERN!
-- 👯 I’m looking to collaborate with TypeScript, Nuxt.js, Vue & angular
+- 👯 I’m looking to collaborate with TypeScript, Next.js, Vue & angular
 - 🥅 I always like to learn new things and have experience with new stuff
 
 
@@ -19,6 +21,13 @@
 [![LinkedIn Follow](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sultana-tasnim-jahan-08a8b61a3/)
 
 <br />
+
+## TECHNICAL SKILLS
+Front End (Expert): Html, CSS, Bootstrap, Material UI,  JavaScript, TypeScript, ES6, React JS, React Router
+Back End: Node JS, Express JS, MongoDB, Postman
+Deploy tools: Firebase, Heroku, GitHub,  Netlify, 
+Others: VS Code, Git, Visual Studio,  Chrome Dev Tools, OOP, Data Structure, SASS
+
 
 ### Languages and Tools:
 
