@@ -49,7 +49,7 @@
 
 ---
 # Github Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasnimJahan&show_icons=true&theme=radical)
+![Sultana Tasnim Jahan's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasnimJahan&show_icons=true&theme=radical)
 
 # Most Used Language
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimJahan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
