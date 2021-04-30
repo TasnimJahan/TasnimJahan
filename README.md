@@ -52,5 +52,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasnimJahan&show_icons=true&theme=radical)
 
 # Most Used Language
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimJahan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
