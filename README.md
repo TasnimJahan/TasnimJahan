@@ -1,7 +1,7 @@
 
-### Hi there, I'm a Sultana Tasnim Jahan, a Lecturer in the Department of Computer Science and Engineering at the Bandarban University at Chattogram, Bangladesh!! 👋 
+### Hi there, I'm a Sultana Tasnim Jahan, a Lecturer in the Department of Computer Science and Engineering at International Islamic University Chittagong!!
 ## ABOUT ME
-I am Sultana Tasnim Jahan. A Lecturer in the Department of Computer Science and Engineering at the Bandarban University at Chattogram, Bangladesh. My teaching and research focus on artificial intelligence (AI), machine learning, computer vision, and other computer science related subjects. I have completed my BSc (Engineering) degree from the University of Chittagong.
+I am Sultana Tasnim Jahan. A Lecturer in the Department of Computer Science and Engineering at International Islamic University Chittagong (Ex-Bandarban University). My teaching and research focus on artificial intelligence (AI), machine learning, computer vision, and other computer science related subjects. I have completed my BSc (Engineering) degree from the University of Chittagong.
 I love to take a challenge and to be successful at any cost by working hard, and I love to learn and gain new experiences. Honesty, hard work, and passion support me to grow myself.
 
 My personal attribute:
@@ -14,10 +14,10 @@ My personal attribute:
 
 
 <!--- 
-## I'm a 😍😍 React Lover 😍😍!!!
+## I like to code with React framework!!!
 
-- 🔭 I’m currently working with MERN!
-- 👯 I’m looking to collaborate with TypeScript, Next.js, Vue & angular
+- 🔭 I’ve worked with MERN!
+- I’m looking to collaborate with TypeScript, Next.js, Vue & angular
 - 🥅 I always like to learn new things and have experience with new stuff
  --->
 
